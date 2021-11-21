@@ -5,6 +5,7 @@ Compre aqui: https://www.amazon.com/Exercises-Programmers-Challenges-Develop-Cod
 
 Parte 1: Entrada, Processamento e Saída
 
-* Exercício 1. Saying Hello - https://youtu.be/TCrGSmW_fyE 
-* Exercício 2. Counting the Number of Characters - https://youtu.be/bOdkEtQ8f9U 
+* Exercício 1. Saying Hello - https://youtu.be/TCrGSmW_fyE
+* Exercício 2. Counting the Number of Characters - https://youtu.be/bOdkEtQ8f9U
+* Exercício 3. Printing Quotes - https://youtu.be/9aZBiFb3XEk
 
